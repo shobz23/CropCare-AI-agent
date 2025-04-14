@@ -1,6 +1,6 @@
-# Crop Doctor AI
+# Crop Care AI
 
-Crop Doctor is an intelligent AI-based plant disease detection system. It helps farmers identify diseases from leaf images and provides recommendations for treatment. This project was developed as part of the Vicky Bytes Hiring Challenge.
+Crop Care is an intelligent AI-based plant disease detection system. It helps farmers identify diseases from leaf images and provides recommendations for treatment. This project was developed as part of the Vicky Bytes Hiring Challenge.
 
 ---
 
@@ -111,13 +111,6 @@ streamlit run src/app.py
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
 
----
 
-## Contributors
-
-- **Your Name**
-- Contributions welcome via pull requests.
