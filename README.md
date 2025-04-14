@@ -25,7 +25,7 @@ An AI-powered agent that detects plant diseases from leaf images and recommends 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/crop-doctor-ai.git
+git clone https://github.com/shobz23/CropCare-AI-agent
 cd crop-doctor-ai
 pip install -r requirements.txt
 streamlit run app.py
